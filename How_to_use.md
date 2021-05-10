@@ -9,7 +9,7 @@ The oficial documention could be visit in their oficial [website](https://market
 - Install Visual Studio Code. 
 
 - Install the Device Simulator Express (Extension from the marketplace), once it is installed, you will need to reload VScode. In some cases it is needed close it and open it again (sometimes a couple of times).
-
+.
 
 
 
