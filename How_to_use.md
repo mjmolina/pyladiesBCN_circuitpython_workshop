@@ -9,8 +9,43 @@ The oficial documention could be visit in their oficial [website](https://market
 - Install Visual Studio Code. 
 
 - Install the Device Simulator Express (Extension from the marketplace), once it is installed, you will need to reload VScode. In some cases it is needed close it and open it again (sometimes a couple of times).
-.
+
+**
+Once your click the green button **Install** for Device Simulator Express, after that it will pop-up a message asking if you want to open the Visual Studio code. 
+*Click* **Open Visual Studio Code** 
+
+<img  align="middle" width="600px"  src="images/vs_1.png" >
+
+Once you accept **Open Visual Studio Code** , your VSCode should be opened automatically.
+In that point will appear a screen with the Device Simulator Express Installation. 
+*Click* **Install**
+
+<img  align="middle" width="600px"  src="images/vs_2.png" >
 
 
+If all goes ok, you would be able to don´t see any special screen. 
+Go to :
+  - View > Command Palette 
+  - or use cmd+ shift+p or cntl+shift P
 
-<img  align="middle" width="700px"  src="images/vs_1.png" >
+<img  align="middle" width="600px" src="images/vs_3.png" >
+
+
+After *click* **Device Simulator Express**, you will need to wait some seconds until appear three options of simulators. 
+In our case will work with "CircuitPlayground Express. If nothing happen wait a bit more, if not retry to click on that, if not go to the "problems section".
+
+
+On these images the arrow purple are indicating who different python version working. 
+Once appears the different options of simulators, we will select the CircuitPlayground Express and will appear the simulator 
+<img  align="middle" width="600px"  src="images/vs_5.png" >
+
+In this case, I was using python 3.9.1, but as we mentioned before the 3.7+ will work good. 
+after all these steps, we will arrive to the final screen divided in two. 
+On the left, we have some information about tutorial a official documentation about CircuitPython and it will be the coding area.
+On the right on top we should see a microcontroller (CPX) 
+<img  align="middle" width="700px"  src="images/vs_6.png" >
+
+
+## Possible problems and how to solve them:
+
+<img  align="middle" width="700px"  src="images/vs_4.png" >
