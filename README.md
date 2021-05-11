@@ -1,6 +1,6 @@
 ## Home and cleaning automation with Microcontrollers and CircuitPython
 
-### Talk description:
+### Workshop description:
 
 When learning and using Python for automation, we usually write applications
 that can help us on computer related tasks, like downloading things,
