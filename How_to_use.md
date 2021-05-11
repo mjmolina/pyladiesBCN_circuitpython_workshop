@@ -28,7 +28,7 @@ Go to :
   - View > Command Palette 
   - or use cmd+ shift+p or cntl+shift P
 
-<img  align="middle" width="500px" src="images/vs_3.png" >
+<img  align="middle" width="600px" src="images/vs_3.png" >
 
 
 After *click* **Device Simulator Express**, you will need to wait some seconds until appear three options of simulators. 
@@ -38,7 +38,7 @@ In our case will work with "CircuitPlayground Express. If nothing happen wait a 
 On these images the arrow purple are indicating who different python version working. 
 Once appears the different options of simulators, we will select the CircuitPlayground Express and will appear the simulator 
 
-<img  align="middle" width="500px"  src="images/vs_5.png" >
+<img  align="middle" width="600px"  src="images/vs_5.png" >
 
 In this case, I was using python 3.9.1, but as we mentioned before the 3.7+ will work good. 
 after all these steps, we will arrive to the final screen divided in two. 
@@ -46,9 +46,9 @@ On the left, we have some information about tutorial a official documentation ab
 On the right on top we should see a microcontroller (CPX)
 
 
-<img  align="middle" width="500px"  src="images/vs_6.png" >
+<img  align="middle" width="600px"  src="images/vs_6.png" >
 
 
 ## Possible problems and how to solve them:
 
-<img  align="middle" width="500px"  src="images/vs_4.png" >
+<img  align="middle" width="600px"  src="images/vs_4.png" >
