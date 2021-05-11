@@ -1,10 +1,11 @@
 ## How to do the set up for Adafruit Circuit Playground Express (CPX) Simulator
 (For installations check src="installation.md")
 
-The oficial documention could be visit in their oficial [website](https://marketplace.visualstudio.com/items?itemName=ms-python.devicesimulatorexpress)
+The oficial documention could be visit in their oficial 
+[website](https://marketplace.visualstudio.com/items?itemName=ms-python.devicesimulatorexpress)
 
 - Install python 3.7+ or check that you are using this version or up of python. 
-[warning tip]: If you have python2 in your system be aware that is not active, 
+- [warning tip]: If you have installed `python2` in your system be aware that is not active, 
 
 - Install Visual Studio Code. 
 
@@ -26,7 +27,7 @@ In that point will appear a screen with the Device Simulator Express Installatio
 If all goes ok, you would be able to don´t see any special screen. 
 Go to :
   - View > Command Palette 
-  - or use cmd+ shift+p or cntl+shift P
+  - or use `cmd+ shift+p` or `cntl+shift+p`
 
 <img  align="middle" width="600px" src="images/vs_3.png" >
 
