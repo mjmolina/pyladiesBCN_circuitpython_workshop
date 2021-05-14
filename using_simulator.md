@@ -9,6 +9,11 @@ ______
 ### Installations (see installations.md)
  
 - Install python 3.7+ or check that you are using this version or up of python. 
+
+**Important information**: If you are running `python 3.9 +`, the device simulator express installation will not work correctly at least that you change de version of one ot the dependency `pillow==7.0.0` to a `pillow==8.1` (See: [website](https://github.com/microsoft/vscode-python-devicesimulator/issues/377) )
+How to solve it? Modify the pillow version following the path and modify it in the requirement file (unix: .vscode/extensions/ms-python.devicesimulatorexpress-2020.0.36321/out/requirements.txt
+windows:.vscode\extensions\ms-python.devicesimulatorexpress-2020.0.36321\out\requirements.txt) or use a previous version of python. 
+
   [warning tip]: If you have installed `python2` in your system make sure it
   is not active as your default `python` command.
 
@@ -63,16 +68,17 @@ if not go to the "problems section".
 Once the different options of simulators appear, we will select the
 CircuitPlayground Express and the simulator will appear.
 
-<img  align="middle" width="600px"  src="images/vs_5.png" >
 
-In this case, it was running `python 3.9.1`, and since that fulfil the
-rule of `python 3.7+` it will work good. 
 After all these steps, we will arrive to the final screen divided in two. 
 On the left, we have some information about a tutorial from the official
 documentation about CircuitPython and the coding area.
 On the right, on top we should see a microcontroller (CPX) image.
 
 <img  align="middle" width="600px"  src="images/vs_6.png" >
+
+
+
+
 
 
 ## Possible problems and how to solve them:
@@ -82,3 +88,8 @@ it looks like it is `python 3.7+`.
 Since the running version was `python2.7` it was not working. 
 
 <img  align="middle" width="600px"  src="images/vs_4.png" >
+
+
+
+
+

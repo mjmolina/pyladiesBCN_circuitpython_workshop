@@ -20,6 +20,8 @@ For macOS users and Linux there are some alternatives:
   installer, with the other OS you should have `python` or `python3`
   already in your path: check it out with `python --version` 
   (or `python3 --version`).
+  
+  
 
 ## Install Visual Studio Code:
 
