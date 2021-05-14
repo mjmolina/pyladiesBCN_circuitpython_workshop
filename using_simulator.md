@@ -11,8 +11,12 @@ ______
 - Install python 3.7+ or check that you are using this version or up of python. 
 
 **Important information**: If you are running `python 3.9 +`, the device simulator express installation will not work correctly at least that you change de version of one ot the dependency `pillow==7.0.0` to a `pillow==8.1` (See: [website](https://github.com/microsoft/vscode-python-devicesimulator/issues/377) )
-How to solve it? Modify the pillow version following the path and modify it in the requirement file (unix: .vscode/extensions/ms-python.devicesimulatorexpress-2020.0.36321/out/requirements.txt
-windows:.vscode\extensions\ms-python.devicesimulatorexpress-2020.0.36321\out\requirements.txt) or use a previous version of python. 
+
+*How to solve it?* 
+Modify the pillow version following the path and modify it in the requirement file:
+- Unix: .vscode/extensions/ms-python.devicesimulatorexpress-2020.0.36321/out/requirements.txt
+- Windows:.vscode\extensions\ms-python.devicesimulatorexpress-2020.0.36321\out\requirements.txt
+or use a previous version of python. 
 
   [warning tip]: If you have installed `python2` in your system make sure it
   is not active as your default `python` command.
