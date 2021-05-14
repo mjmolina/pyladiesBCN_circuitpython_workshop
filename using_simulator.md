@@ -80,6 +80,7 @@ On the right, on top we should see a microcontroller (CPX) image.
 
 <img  align="middle" width="600px"  src="images/vs_6.png" >
 
+______
 
 ## First steps:
 
