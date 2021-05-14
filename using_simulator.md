@@ -81,7 +81,32 @@ On the right, on top we should see a microcontroller (CPX) image.
 <img  align="middle" width="600px"  src="images/vs_6.png" >
 
 
+## First steps:
 
+Let´s start writing our first circuipython code to test that everythings is ok. 
+On the left right this code:
+
+
+` 
+import CPX library from adafruit_circuitplayground import cp
+
+while True:
+    # start your code here
+    cp.pixels.fill((0, 250, 0)) #add this line of code
+    pass
+`
+
+*Click* on the button `play`== button with the green arrow. 
+
+You should see that pixels are turn on green!
+
+**Congrats! Your installation and set up is done, you are ready!**
+
+
+If you don´t achieve, don´t worry, go to the possible problems or review the installations and set-up steps.
+
+
+_______
 
 ## Possible problems and how to solve them:
 
