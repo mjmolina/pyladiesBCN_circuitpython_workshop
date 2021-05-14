@@ -111,7 +111,7 @@ If you didn´t achieve it, don´t worry, go to the possible problems or review t
 
 _______
 
-## Possible problems and how to solve them:
+### Possible problems and how to solve them:
 
 The first arrow shows that `python2` is running, while on the bottom
 it looks like it is `python 3.7+`.
