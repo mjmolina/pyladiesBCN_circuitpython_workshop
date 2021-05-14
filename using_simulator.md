@@ -83,8 +83,6 @@ On the right, on top we should see a microcontroller (CPX) image.
 
 
 
-
-
 ## Possible problems and how to solve them:
 
 The first arrow shows that `python2` is running, while on the bottom
