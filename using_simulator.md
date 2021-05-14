@@ -86,7 +86,7 @@ On the right, on top we should see a microcontroller (CPX) image.
 Let´s start writing our first circuipython code to test that everythings is ok. 
 
 
-- On the left right this code:
+- On the left write this code:
 
 
 ``` 
@@ -98,6 +98,8 @@ while True:
     pass
 ```
 
+
+- On the right:
 - *Click* on the button `play`== button with the green arrow. You should see that pixels are turn on green!
 
 **Congrats! Your installation and set up is done, you are ready!**
