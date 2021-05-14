@@ -106,7 +106,7 @@ while True:
 
 
 
-If you don´t achieve, don´t worry, go to the possible problems or review the installations and set-up steps.
+If you didn´t achieve it, don´t worry, go to the possible problems or review the installations and set-up steps.
 
 
 _______
