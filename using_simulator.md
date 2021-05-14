@@ -14,8 +14,8 @@ ______
 
 *How to solve it?* 
 Modify the pillow version following the path and modify it in the requirement file:
-- Unix: .vscode/extensions/ms-python.devicesimulatorexpress-2020.0.36321/out/requirements.txt
-- Windows:.vscode\extensions\ms-python.devicesimulatorexpress-2020.0.36321\out\requirements.txt
+* Unix: .vscode/extensions/ms-python.devicesimulatorexpress-2020.0.36321/out/requirements.txt
+* Windows:.vscode\extensions\ms-python.devicesimulatorexpress-2020.0.36321\out\requirements.txt
 or use a previous version of python. 
 
   [warning tip]: If you have installed `python2` in your system make sure it
