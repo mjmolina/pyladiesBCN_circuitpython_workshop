@@ -32,7 +32,7 @@ Outline
 
 [Practical part] Let’s code with a CircuitPlayground Express, using an emulator
 in VS Code. 
-- Neopixels. 
+- lights-Neopixels. 
 - Temperature sensor.
 - Light sensor.
 - and maybe much more...
