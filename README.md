@@ -51,4 +51,4 @@ for a more dynamic approach. This will depend on the group size*.
 
 *Note:* This emulator allows to programm 3 different microcontrollers. 
 We will program the Adafruit Circuit Playground Express (CPX)
-and the same microcontrollers will be used for the experimental and demo part.
+and the same microcontroller will be used for the experimental and demo part.
