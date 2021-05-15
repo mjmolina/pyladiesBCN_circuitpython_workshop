@@ -35,7 +35,6 @@ in VS Code.
 - lights-Neopixels. 
 - Temperature sensor.
 - Light sensor.
-- and maybe much more...
 
 [Experimental part] Using the code on real devices.
 
