@@ -32,15 +32,16 @@ Outline
 
 [Practical part] Let’s code with a CircuitPlayground Express, using an emulator
 in VS Code. 
-- Temperature sensors.
-- Light sensors.
-- Proximity sensors.
+- Neopixels. 
+- Temperature sensor.
+- Light sensor.
+- and maybe much more...
 
 [Experimental part] Using the code on real devices.
 
 [Demo part] In this section we will see how we can use all this knowledge to
 help automating our home. You will see how we can build:
-- A movement-detector and alarm.
+
 - Low-cost robot cleaner.
 - Watering and monitoring plant system.
 
