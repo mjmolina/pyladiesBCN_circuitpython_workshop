@@ -91,7 +91,9 @@ Let´s start writing our first circuipython code to test that everythings is ok.
 
 
 ``` 
-import CPX library from adafruit_circuitplayground import cp
+#import CPX library 
+
+from adafruit_circuitplayground import cp
 
 while True:
     # start your code here
