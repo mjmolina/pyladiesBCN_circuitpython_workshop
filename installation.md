@@ -47,7 +47,7 @@ from its official website.
 
 Extra information to have in consideration:
 
-**Important information:** If you are running `python 3.9` , the Device Simulator Express installation will not work correctly at least that you change de version of one ot the dependency `pillow==7.0.0` to a `pillow==8.1.0` (See: [wesbite](https://github.com/microsoft/vscode-python-devicesimulator/issues/377 )
+**Important information:** If you are running `python 3.9` , the Device Simulator Express installation will not work correctly at least that you change de version of one dependency: `pillow==7.0.0` to a `pillow==8.1.0` (See: [wesbite](https://github.com/microsoft/vscode-python-devicesimulator/issues/377 )
 
 How to solve it? Modify the pillow version following the path and modify it in the requirement file:
 
