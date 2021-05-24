@@ -1,6 +1,6 @@
 ## Home and cleaning automation with Microcontrollers and CircuitPython
 
-<img src="https://secure.meetupstatic.com/photos/event/b/1/e/5/highres_496365541.jpeg" style="width: 500px;"/>
+<img align="middle" src="https://secure.meetupstatic.com/photos/event/b/1/e/5/highres_496365541.jpeg" width="500px"/>
 
 [Link to the Meetup event](https://www.meetup.com/PyLadies-BCN/events/278238384)
 
