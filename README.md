@@ -1,5 +1,4 @@
-## Home and cleaning automation
-## with Microcontrollers and CircuitPython 🐍🤖
+## Home and cleaning automation with Microcontrollers and CircuitPython 🐍🤖
 
 <img align="middle" src="https://secure.meetupstatic.com/photos/event/b/1/e/5/highres_496365541.jpeg" width="500px"/>
 
