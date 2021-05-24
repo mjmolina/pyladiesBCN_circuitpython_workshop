@@ -1,4 +1,5 @@
-## Home and cleaning automation with Microcontrollers and CircuitPython 🐍
+## Home and cleaning automation
+## with Microcontrollers and CircuitPython 🐍🤖
 
 <img align="middle" src="https://secure.meetupstatic.com/photos/event/b/1/e/5/highres_496365541.jpeg" width="500px"/>
 
@@ -17,7 +18,7 @@ washing machines, security systems, and many others that can be either
 programmable, or even replicated with a couple of boards and our Python
 knowledge.
 
-During this activity, we will start exploring CircuitPython without the need
+During this activity, we will start exploring [CircuitPython](https://circuitpython.org/) without the need
 of a physical device, using a microcontroller emulator. 
 If you are new to the microcontroller world, don’t worry, we will have an
 introduction to the main concepts, so we have the base knowledge to start
@@ -55,5 +56,5 @@ help automating our home. You will see how we can build:
 > for a more dynamic approach. This will depend on the group size.
 
 **Note:** This emulator allows to program 3 different microcontrollers. 
-We will program the Adafruit Circuit Playground Express (CPX)
+We will program the [Adafruit Circuit Playground Express (CPX)](https://learn.adafruit.com/adafruit-circuit-playground-express/overview)
 and the same microcontroller will be used for the experimental and demo part.
