@@ -3,6 +3,11 @@
 If you have done some of the following steps, just skip them.
 Be sure that your version is compatible with the requirements below.
 
+**Content**
+* [Install Python 3.7+](#install-python-37)
+* [Install Visual Studio Code](#install-visual-studio-code)
+* [Install Device Simulator Express](#install-device-simulator-express)
+
 ******
 ## Install Python 3.7+:
 
