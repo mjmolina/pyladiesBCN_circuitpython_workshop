@@ -25,29 +25,31 @@ using the emulator, and later you will see a couple of real projects
 a movement-detector, a low-cost robot cleaner, and a plant watering and
 monitoring system.
 
-Outline
+### Outline
+
+`[Introduction]` Basic concepts
 - Talk motivation
 - Introduction to Microcontrollers and CircuitPython. 
 - How to use an emulator for hardware programming.
 
-[Practical part] Let’s code with a CircuitPlayground Express, using an emulator
+`[Practical part]` Let’s code with a CircuitPlayground Express, using an emulator
 in VS Code. 
 - lights-Neopixels. 
 - Temperature sensor.
 - Light sensor.
 
-[Experimental part] Using the code on real devices.
+`[Experiments]` Using the code on real devices.
 
-[Demo part] In this section we will see how we can use all this knowledge to
+`[Demo time]` In this section we will see how we can use all this knowledge to
 help automating our home. You will see how we can build:
 
 - Low-cost robot cleaner.
 - Watering and monitoring plant system.
 
 
-*The Practical and Experimental parts, will probably be mixed
-for a more dynamic approach. This will depend on the group size*.
+> The Practical and Experimental parts, will probably be mixed
+> for a more dynamic approach. This will depend on the group size.
 
-*Note:* This emulator allows to programm 3 different microcontrollers. 
+**Note:** This emulator allows to program 3 different microcontrollers. 
 We will program the Adafruit Circuit Playground Express (CPX)
 and the same microcontroller will be used for the experimental and demo part.
