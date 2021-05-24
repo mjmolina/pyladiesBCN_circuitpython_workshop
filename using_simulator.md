@@ -105,6 +105,9 @@ while True:
 - On the right:
 - *Click* on the button `play`== button with the green arrow. You should see that pixels are turn on green!
 
+-**important:** Rememeber save your file as `code.py`!!
+
+
 **Congrats! Your installation and set up is done, you are ready!**
 
 
