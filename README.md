@@ -1,5 +1,7 @@
 ## Home and cleaning automation with Microcontrollers and CircuitPython
 
+<img src="https://secure.meetupstatic.com/photos/event/b/1/e/5/highres_496365541.jpeg" style="width: 800px;"/>
+
 ### Workshop description:
 
 When learning and using Python for automation, we usually write applications
