@@ -9,9 +9,24 @@
 
 # import CPX library
 from adafruit_circuitplayground import cp
+import time
 
-# tip: cp.pixels has access to the board pixels.
+cp.pixels.brightness = 0.8
+
+RED = (255, 0, 0)
+BLUE = (0, 0, 255)
+PURPLE = (180, 0, 255)
+
+
+def color_round(color):
+    for i in range(10):
+        cp.pixels[i] = color
+        time.sleep(0.25)
+        cp.pixels.show()
+    time.sleep(0.25)
+
 
 while True:
-    # Add your code here!
-    pass
+    color_round(RED)
+    color_round(PURPLE)
+    color_round(BLUE)

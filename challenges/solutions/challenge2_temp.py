@@ -9,9 +9,19 @@
 
 # import CPX library
 from adafruit_circuitplayground import cp
+import time
 
-# tip: cp.temperature will contain the temperature information
 
 while True:
-    # Add your code here
-    pass
+
+    if cp.temperature > 30:
+        for i in range(10):
+            cp.pixels[i] = (255, 0, 0)
+            cp.pixels.show()
+
+    else:
+        for i in range(10):
+            cp.pixels[i] = (0, 0, 255)
+            cp.pixels.show()
+
+    time.sleep(0.25)
